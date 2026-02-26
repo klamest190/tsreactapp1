@@ -25,7 +25,7 @@ const AppCounter1 = () => {
         +
       </button>
       <button
-        className="p-10 bg-orange-300 rounded-lg hover:bg-orange-400"
+        className="p-10 bg-purple-300 rounded-lg hover:bg-purple-400"
         onClick={countDown}
       >
         -
